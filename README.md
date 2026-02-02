@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">Senior studying Computer Science at University of Texas at Arlington (UTA) wanting to get into simulation and game development. South Central Regional Conference Chair for Society of Asian Scientists and Engineers. Adobe Ambassador for UTA. Community Director for Association for Computing Machinery at UTA. Jobright.ai Ambassador for UTA</h3>
+<h3 align="center">Senior studying Computer Science at University of Texas at Arlington (UTA) wanting to get into simulation and game development. South Central Regional Conference Chair for Society of Asian Scientists and Engineers. Adobe Ambassador for UTA. Community Officer for Association for Computing Machinery at UTA. Bum energy Ambassador , ex Jobright.ai Ambassador for UTA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
